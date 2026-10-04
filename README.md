@@ -51,7 +51,9 @@ streamlit run app.py     # downloads the model from the Hugging Face Hub
 ```
 
 ## Files
-- `notebooks/` or the notebooks in the main folder: data exploration and baseline, first AraBERTv2 attempt, final AraBERT-Twitter run
+- `01_data_exploration.ipynb`: data exploration and the TF-IDF baseline
+- `arabertv2_first_attempt.ipynb`: first run with AraBERTv2 (Colab)
+- `arabert_twitter_final.ipynb`: final AraBERT-Twitter run (Kaggle)
 - `app.py`: Streamlit demo
-- `upload_model.py`: uploads the model to the Hub
+- `upload_model.py`: uploads the model to the Hugging Face Hub
 - `confusion_matrix.png`: test-set confusion matrix
