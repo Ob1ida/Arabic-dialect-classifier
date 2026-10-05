@@ -2,7 +2,7 @@
 
 Guesses which of 18 Arab countries a tweet's author is from. Fine-tuned AraBERTv0.2-Twitter on the QADI dataset.
 
-**Live demo:** YOUR_STREAMLIT_LINK
+**Live demo:** 
 **Model:** https://arabic-dialect-classifier-fqpappsg4auawwsvh4smk24.streamlit.app/
 
 ## Results (test set, evaluated once)
